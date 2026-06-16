@@ -1,0 +1,30 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    background: linear-gradient(270deg, #87eff6 0%, #ffffff 100%);
+}
+.navbar{
+        display: flex;
+        justify-content:space-between;
+        padding: 40px 80px ;
+        text-align: justify;
+}
+    .texto {
+        color: red;
+    }
+    .btns{
+        color: aqua;
+        border-radius: 2px color aqua;
+    }
+    .mundo{
+      display: flex;
+      justify-content: space-between;
+        
+    }
+    
+    
